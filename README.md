@@ -1,6 +1,10 @@
 # ExcelAlamazeMap
 
-( The following text was copied from http://kingdomsofarcania.net/forum/showthread.php?tid=9731 )
+I did not create this spreadsheet. It was created by Thudargh. I am just controlling it here 
+so that I can post releases on bintray so that other players can access download it rather than
+having to email Thudargh directly and wait for a reply. 
+
+The following text was copied from http://kingdomsofarcania.net/forum/showthread.php?tid=9731 
 
 I saw in a recent post that there may be some interest in an Excel-based version of the Alamaze map.  I've actually developed such a map, along with a method of tracking my orders & resources by turn.  It's certainly not as nice looking as the PowerPoint map and I'm sure most of the instructions on how to use it are just in my head rather than written down, but I thought I would share it anyway.
 
